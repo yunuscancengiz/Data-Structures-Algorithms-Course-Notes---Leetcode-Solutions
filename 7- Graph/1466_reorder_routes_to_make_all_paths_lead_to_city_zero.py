@@ -38,6 +38,8 @@ connections[i].length == 2
 ai != bi
 '''
 
+from typing import List
+
 
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
