@@ -44,3 +44,8 @@ class Solution:
         for i in range(len(nums)):
             nums[i] = nums[i] // len(nums)
         return nums
+    
+
+if __name__ == '__main__':
+    nums = [5,0,1,2,3,4]
+    print(Solution().buildArray(nums=nums))
