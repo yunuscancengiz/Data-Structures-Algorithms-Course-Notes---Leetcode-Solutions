@@ -26,7 +26,7 @@ So [2,2,3,1,4,2] is the shortest subarray, therefore returning 6.
 Constraints:
 
 nums.length will be between 1 and 50,000.
-nums[i] will be an integer between 0 and 49,999.
+nums[i] will be an integer between 0 and 49,999
 
 '''
 
